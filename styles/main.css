@@ -1,0 +1,16 @@
+.navbar {
+  background-color: #e3f2fd;
+}
+
+.nav-link {
+  width: 80px;
+  text-align: center;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+}
+
+.nav-link.active {
+  font-weight: bold;
+}
