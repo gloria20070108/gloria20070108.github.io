@@ -1,3 +1,7 @@
+body {
+  font-family: Sans-serif;
+}
+
 .navbar {
   background-color: #e3f2fd;
 }
@@ -15,11 +19,59 @@
   font-weight: bold;
 }
 
-.contact {
-  display: inline;
+.container {
+  background: #fcfcfc;
+}
+
+.left-content {
+  margin-top: 200px;
+  margin-left: 20px;
   margin-right: 20px;
+}
+
+.right-content {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 700px;
+}
+
+.home-photo {
+  height: 650px;
+}
+
+.about-text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.about-photo-container-outter {
+  margin: auto;
+  width: 50%;
+}
+
+.about-photo-container {
+  display: inline;
+}
+
+.about-photo {
+  margin-top: 20px;
+  width: 700px;
+}
+
+.contact-photo {
+  height: 500px;
+  margin-top: 50px;
+}
+
+.contact-icon {
+  margin-left: 10px;
 }
 
 .contact-text {
   text-decoration: none;
+  padding-left: 5px;
 }

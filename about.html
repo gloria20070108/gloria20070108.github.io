@@ -23,19 +23,39 @@
       </div>
     </nav>
 
-    <!-- main content of the page -->
     <div class="container">
-      <div class="row">
-        <div class="col">
-          <div class="left-content">
+        <div class="about-text">
             <h2>About me</h2>
-            <p>A very lovely introduction of me</p>
+            <p>
+              I am a student in the master of Computer Science program at
+              Northeastern University and passionate to become a software
+              engineer. My completed courses include Algorithms, Computer
+              Systems, Discrete and Data Structures and Object-Oriented
+              Design.<br />
+              I am also a registered nurse and certified diabetes educator with
+              experience of health education, program evaluation and
+              development.<br />
+              I believe that hobbies, such as dancing, painting and playing
+              piano, help destress myself while remaining mentally
+              productive.<br />
+              Besides being a student, I am a mother with a three-year old. No
+              matter how busy I am, I always find time for my family.
+            </p>
           </div>
         </div>
-        <div class="col">
-          <div class="right-content">A very lovely photo</div>
+        <div class="about-photo-container-outter">
+          <div class="about-photo-container">
+            <button class="btn" title="show previous photo" onclick="prevPhoto()"><</button>
+            <img
+              src="./img/about_1.JPG"
+              alt="about page photo 1"
+              class="about-photo"
+            />
+            <button class="btn" onclick="nextPhoto()">></button>
+          </div>
         </div>
-      </div>
     </div>
+
+    <script src="./js/main.js"></script>
   </body>
 </html>
