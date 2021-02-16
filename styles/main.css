@@ -5,6 +5,7 @@ body {
 .navbar {
   background-color: #e3f2fd;
 }
+You can set the position of the navigation bar to be fixed.
 
 .nav-link {
   width: 80px;
