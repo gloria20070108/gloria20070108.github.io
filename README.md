@@ -23,7 +23,7 @@ clone the code and open the index.html in browser
 
 ## Demo
 
-Comming soon
+https://youtu.be/VzCryA9aG2w
 
 ## Screen shots
 ![Alt text](https://github.com/gloria20070108/gloria20070108.github.io/blob/main/screenshots/screenshot1.png?raw=true "Home page")
