@@ -29,3 +29,4 @@ function nextPhoto() {
     photo.src = "./img/about_1.JPG";
   }
 }
+
